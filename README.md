@@ -19,8 +19,7 @@ gfm/
 │   ├── models/         # Deep Learning Architectures
 │   ├── data/           # Data Loading & Processing
 │   └── experiments/    # Training Drivers
-├── scripts/            # Execution Scripts
-└── configs/            # Parameter Configuration
+└── scripts/            # Execution Scripts
 ```
 
 
