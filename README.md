@@ -54,15 +54,4 @@ Evaluate stability (RMSD) and chemical validity.
 python scripts/analyze.py --model_path checkpoints/model_final.pt --n_samples 50 --output_dir results/analysis
 ```
 
-## Citation
-If you use this code in your research, please cite:
-
-```bibtex
-@article{gfm2024,
-  title={Geometric Flow Matching on Molecular Graphs},
-  author={Research Team},
-  journal={arXiv preprint arXiv:2402.XXXXX},
-  year={2024}
-}
-```
 
